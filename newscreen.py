@@ -1,4 +1,4 @@
-def click():
+def welcome():
 	print "New Screen"
 	
-click()
+welcome()
